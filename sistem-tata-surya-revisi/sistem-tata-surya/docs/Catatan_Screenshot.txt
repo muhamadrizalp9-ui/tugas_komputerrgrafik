@@ -1,0 +1,6 @@
+Ambil screenshot aplikasi setelah dijalankan di browser, lalu masukkan ke laporan PDF jika dosen meminta bukti visual final.
+Saran screenshot:
+1. Tampilan utama dengan semua planet.
+2. Saat Bumi dipilih dan panel informasi teknis terlihat.
+3. Saat slider translasi/rotasi/scaling diubah.
+4. Saat posisi atau intensitas cahaya diubah.
